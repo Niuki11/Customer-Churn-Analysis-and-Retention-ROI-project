@@ -1,0 +1,1 @@
+Tis project is a comprehensive **customer churn analysis and retention ROI dashboard** built in Microsoft Excel. It analyzes **1,000+ SaaS customers** to identify key churn drivers, track churn trends, and model the financial impact of retention interventions. The dashboard is fully **formula-driven** and auto-recalculates when source data is updated.
